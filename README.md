@@ -18,7 +18,9 @@ I hold a Bachelor in Communication Science and minor in Data Science at the Univ
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Adobe Analytics](https://img.shields.io/badge/-Adobe%20Analytics-FF0000?style=flat-square&logo=adobe&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white)---
+![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
+
+---
 
 ## 📂 Featured Projects
 
