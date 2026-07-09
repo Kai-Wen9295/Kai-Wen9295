@@ -26,7 +26,7 @@ I hold a Bachelor in Communication Science and minor in Data Science at the Univ
 
 **[💬 Message Formulation on Sustainable Alternative Clothing Analysis](https://github.com/Kai-Wen9295/Message-Formulation-on-Sustainable-Alternative-Clothing.git)** — Conducted online experiment to examine the effects of outcome framing (gain vs. loss) and reference type (self-focused vs. other-focused appeals) analyzed via two-way ANOVA.
 
-**[🏨 Hotel Review Analysis](https://github.com/Kai-Wen9295/Thesis-trip_characteristics_and_guest_profiles.git)** — Multiple OLS regression, elastic net regression, and random forest regression, as well as sentiment analysis on 515k European hotel reviews. The interesting part was figuring out which features actually mattered.
+**[🏨 Hotel Review Analysis](https://github.com/Kai-Wen9295/Thesis-trip_characteristics_and_guest_profiles.git)** — Multiple OLS regression, elastic net regression, and random forest regression, as well as sentiment analysis on 515k European hotel reviews. The interesting part was figuring out which trip related and guest profile features actually mattered, as well as their extent on online review behavior.
 
 ---
 
