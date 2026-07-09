@@ -6,6 +6,10 @@ Business Analytics Master's Student • Rotterdam, NL
 
 <!--
 
+I am an ambitious individual with a strong passion in transforming data into actionable strategies with visible outcomes. In my free time, I enjoy analysing customers’ digital user experience to drive digital transformation, where various situations are carefully observed. This has motivated me to undertake studies in Business Analytics & Management master at Erasmus University and I aspire to become an expert digital data analyst in the future. I hold a Bachelor in Communication Science and minor in Data Science at the University of Amsterdam, aimed mainly at statistical analysis in various communication phenomena, for example, customers’ decision-making processes in corporate, entertainment, political and persuasive communication. I have work and research experiences related to data analysis and conducting market research in both academic and work environments. I also hold strong communication skills and has attention to detail.
+
+## 🛠️ Tech Stack
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
