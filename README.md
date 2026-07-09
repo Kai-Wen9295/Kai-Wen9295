@@ -1,7 +1,10 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Karen 👋</h1>
+
+<p align="center">
+Business Analytics Master's Student • Rotterdam, NL
+</p>
 
 <!--
-**Kai-Wen9295/Kai-Wen9295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
